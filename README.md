@@ -1,4 +1,6 @@
-c-cedille
+c-cédille
 =========
 
-Une langage de programmation plus raffinée. A more refined programming language.
+Un langage de programmation plus raffiné. 
+
+A more refined programming language.
