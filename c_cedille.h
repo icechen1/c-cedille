@@ -59,7 +59,12 @@
 #define soustrait_par -=
 #define multiplier_par *=
 #define diviser_par /=
+#define début_du_commentaire "/*"
+#define fin_du_commentaire "*/"
+#define pointeur *
 
 //function
 #define écrire printf
 #define lire scanf
+#define fonction_principal main
+#define taille_de sizeof()
